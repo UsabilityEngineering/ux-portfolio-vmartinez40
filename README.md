@@ -6,4 +6,4 @@
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Chefman Air Fryer](j01/)
